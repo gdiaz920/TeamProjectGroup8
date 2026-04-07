@@ -1,3 +1,1 @@
-print("this is a test")
-print("this is a second test")
-anything
+print("This is our 2820 final group project")
